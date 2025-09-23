@@ -1,0 +1,8 @@
+export default function Services() {
+    return (
+        <div>
+            <h2>Our Services</h2>
+            <p>This is the services page.</p>
+        </div>
+    );
+}
