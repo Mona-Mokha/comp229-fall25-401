@@ -9,8 +9,12 @@ export default function About() {
             </p>
         
             <p>
-                <a href="/assets/Mona_Resume.pdf" target="_blank" rel="noopener noreferrer" className="text-blue-500 underline">
-                    View My Resume
+                <a
+                    href="/Mona_Resume.pdf"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    View Resume
                 </a>
             </p>
         </div>
